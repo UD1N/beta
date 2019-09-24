@@ -1,6 +1,6 @@
 pkg intall bash
 
-git clone https://gihub.com/ud1n/tool
+git clone https://github.com/UD1N/tool
 
 cd tool
 

@@ -4,4 +4,4 @@ git clone https://github.com/UD1N/tool
 
 cd tool
 
-sh mytool.sh
+sh tool.sh
